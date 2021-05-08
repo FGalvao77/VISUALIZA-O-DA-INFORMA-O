@@ -1,7 +1,8 @@
 # VISUALIZAÇÃO DA INFORMAÇÃO
 
-**Material adaptado e incrementado da apostila da máteria**
-- Curso: Ciência de Dados da UNICID
 
+Curso: **Ciência de Dados** - _UNICID_
+- **Material adaptado e incrementado da apostila**
   - Visualização da informação
+  
     
